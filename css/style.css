@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+#checkbox1 input{
+    transform: scale(1.6);
+}
+
+#radio1 input{
+    transform: scale(1.6);
+}
+.inpbut{
+    width: 75px;
+    height: 25px;
+}
